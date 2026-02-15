@@ -1,0 +1,7 @@
+{
+  "mcp.servers": {
+    "thirdweb-api": {
+      "url": "https://api.thirdweb.com/mcp?secretKey=fzG-MMBMYzKXZ-WKwZWm-eKg6MPqpD3J0cMynFpGEaTRjX0j8BC9kOKh81bBaSeM_AseNjalwyVPTVhR2Lx8FQ"
+    }
+  }
+}
